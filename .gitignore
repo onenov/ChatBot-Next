@@ -1,0 +1,49 @@
+/.phpunit.cache
+/node_modules
+/public/build
+/public/hot
+/public/storage
+/public/.well-known
+/storage/*.key
+/vendor
+/public/vendor
+.env
+.env.backup
+.env.production
+.phpunit.result.cache
+Homestead.json
+Homestead.yaml
+auth.json
+npm-debug.log
+yarn-error.log
+yarn.lock
+/.fleet
+/.idea
+/.vscode/*
+!/.vscode/settings.json
+.npmrc
+
+# Nuxt dev/build outputs
+/nuxt/.nuxt
+/nuxt/.output
+.output
+.data
+.nuxt
+.nitro
+.cache
+dist
+
+# Node dependencies
+node_modules
+
+# Logs
+logs
+*.log
+
+# Misc
+.DS_Store
+.fleet
+.idea
+
+# Local env files
+.env
