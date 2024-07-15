@@ -19,7 +19,7 @@
 
 ## 说明
 
-仅作为一个框架处理和调度 [**Dify**](https://github.com/langgenius/dify) 和 [Dify on WeChat](https://github.com/mengdahuang/dify-on-wechat) 项目，并增加了一堆附加功能，目前只开源前端部分。项目还在处于内部开发阶段，你需要根据文档调整其他项目（Dify 、Dify on WeChat）的部署方式。
+仅作为一个框架处理和调度 [**Dify**](https://github.com/langgenius/dify) 和 [**Dify on WeChat**](https://github.com/hanfangyuan4396/dify-on-wechat) 项目，并增加了一堆附加功能，目前只开源前端部分。项目还在处于内部开发阶段，你需要根据文档调整其他项目（Dify 、Dify on WeChat）的部署方式。
 
 获取方式：请添加微信 [AOKIEO] 了解获取后端，交流或更多。
 
