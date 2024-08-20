@@ -7,6 +7,10 @@
 
 无缝集成处理和调度 Dify & Dify on WeChat，Web 可视化多用户管理/一键启动 ChatBot，简化了令人惊叹且响应迅速的 ChatBot 应用程序的创建。
 
+请注意：该项目仅用于学习交流使用，Dify 允许被用于商业化，例如作为其他应用的“后端即服务”使用，或者作为应用开发平台提供给企业。然而，当满足以下条件时，必须联系生产者获得商业许可：
+-   多租户 SaaS 服务：除非获得 Dify 的明确书面授权，否则不得使用 Dify.AI 的源码来运营与 Dify.AI 服务版类似的多租户 SaaS 服务。
+-   LOGO 及版权信息：在使用 Dify 的过程中，不得移除或修改 Dify 控制台内的 LOGO 或版权信息。
+
 ## 演示
 
 -   [ChatBot Next](https://chatbot-dev.orence.net)
